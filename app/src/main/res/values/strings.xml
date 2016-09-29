@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">test_quiz</string>
+    <string name="button_true_text"> True </string>
+    <string name="button_false_text"> False </string>
+
+    <string name="question_text">A human is a monkey</string>
+    <string name="question_text1">A human is a spider</string>
+    <string name="question_text2">A human is a human</string>
+    <string name="question_text3">God is a human</string>
+    <string name="question_text4">God is a girl</string>
+
+
+    <string name="toastcorrect">Correct</string>
+    <string name="toastincorrect">incorrect</string>
+    <string name="cheat">cheat</string>
+    <string name="cheating">CHEAT?</string>
+
+
+</resources>
